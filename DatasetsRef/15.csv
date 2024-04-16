@@ -1,0 +1,2 @@
+model,criterion,max_depth,min_samples_split,max_features,learning_rate,n_estimators,n_neighbors,metric,solver,penalty,C,max_iter,kernel,train_accuracy,train_f1,test_accuracy,test_f1,duration,data_id,n_class,n_rows,n_coloumn,data_size,mean,std
+Gradient Boosting,0,3,0,0,0.1,10,0,0,0,0,0.0,0,0,1.0,1.0,0.9,0.901,0.02304,15,7,8124,23,382127,2.24006,1.18864
